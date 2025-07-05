@@ -158,6 +158,3 @@ sameSite: "none"
 Pull requests are welcome! If you find a bug or have a feature request, open an issue first.
 
 ---
-
-### 📧 Contact
-Made with 💜 by Ritika (https://github.com/Ritika168) 
