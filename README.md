@@ -160,4 +160,4 @@ Pull requests are welcome! If you find a bug or have a feature request, open an 
 ---
 
 ### 📧 Contact
-Made with 💜 by Ritika(https://github.com/Ritika168) 
+Made with 💜 by Ritika (https://github.com/Ritika168) 
